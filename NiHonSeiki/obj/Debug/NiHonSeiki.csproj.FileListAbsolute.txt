@@ -1,0 +1,39 @@
+E:\Project\Serv16\NiHonSeiki\NiHonSeiki\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Serv16\NiHonSeiki\NiHonSeiki\obj\Debug\NiHonSeiki.frmLogin.resources
+E:\Project\Serv16\NiHonSeiki\NiHonSeiki\obj\Debug\NiHonSeiki.frmMain.resources
+E:\Project\Serv16\NiHonSeiki\NiHonSeiki\obj\Debug\NiHonSeiki.frmReceive.resources
+E:\Project\Serv16\NiHonSeiki\NiHonSeiki\obj\Debug\NiHonSeiki.Properties.Resources.resources
+E:\Project\Serv16\NiHonSeiki\NiHonSeiki\obj\Debug\NiHonSeiki.csproj.GenerateResource.Cache
+E:\Project\Serv16\NiHonSeiki\NiHonSeiki\bin\Debug\NiHonSeiki.pdb
+E:\Project\Serv16\NiHonSeiki\NiHonSeiki\obj\Debug\NiHonSeiki.pdb
+E:\Project\Serv16\NiHonSeiki\NiHonSeiki\bin\Debug\app.config
+E:\Project\Serv16\NiHonSeiki\NiHonSeiki\obj\Debug\NiHonSeiki.frmReceiveVender.resources
+E:\Project\Serv16\NiHonSeiki\NiHonSeiki\bin\Debug\NiHonSeiki.exe
+E:\Project\Serv16\NiHonSeiki\NiHonSeiki\obj\Debug\NiHonSeiki.exe
+E:\Project\Serv16 (15000)\NiHonSeiki\NiHonSeiki\bin\Debug\app.config
+E:\Project\Serv16 (15000)\NiHonSeiki\NiHonSeiki\bin\Debug\NiHonSeiki.exe
+E:\Project\Serv16 (15000)\NiHonSeiki\NiHonSeiki\bin\Debug\NiHonSeiki.pdb
+E:\Project\Serv16 (15000)\NiHonSeiki\NiHonSeiki\bin\Debug\System.Data.SqlClient.dll
+E:\Project\Serv16 (15000)\NiHonSeiki\NiHonSeiki\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Serv16 (15000)\NiHonSeiki\NiHonSeiki\obj\Debug\NiHonSeiki.frmLogin.resources
+E:\Project\Serv16 (15000)\NiHonSeiki\NiHonSeiki\obj\Debug\NiHonSeiki.frmMain.resources
+E:\Project\Serv16 (15000)\NiHonSeiki\NiHonSeiki\obj\Debug\NiHonSeiki.frmReceive.resources
+E:\Project\Serv16 (15000)\NiHonSeiki\NiHonSeiki\obj\Debug\NiHonSeiki.frmReceiveVender.resources
+E:\Project\Serv16 (15000)\NiHonSeiki\NiHonSeiki\obj\Debug\NiHonSeiki.Properties.Resources.resources
+E:\Project\Serv16 (15000)\NiHonSeiki\NiHonSeiki\obj\Debug\NiHonSeiki.csproj.GenerateResource.Cache
+E:\Project\Serv16 (15000)\NiHonSeiki\NiHonSeiki\obj\Debug\NiHonSeiki.exe
+E:\Project\Serv16 (15000)\NiHonSeiki\NiHonSeiki\obj\Debug\NiHonSeiki.pdb
+D:\Project\DemoWinMo6SqlClient\NiHonSeiki\NiHonSeiki\bin\Debug\app.config
+D:\Project\DemoWinMo6SqlClient\NiHonSeiki\NiHonSeiki\bin\Debug\NiHonSeiki.exe
+D:\Project\DemoWinMo6SqlClient\NiHonSeiki\NiHonSeiki\bin\Debug\NiHonSeiki.pdb
+D:\Project\DemoWinMo6SqlClient\NiHonSeiki\NiHonSeiki\bin\Debug\System.Data.SqlClient.dll
+D:\Project\DemoWinMo6SqlClient\NiHonSeiki\NiHonSeiki\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\DemoWinMo6SqlClient\NiHonSeiki\NiHonSeiki\obj\Debug\NiHonSeiki.frmLogin.resources
+D:\Project\DemoWinMo6SqlClient\NiHonSeiki\NiHonSeiki\obj\Debug\NiHonSeiki.frmMain.resources
+D:\Project\DemoWinMo6SqlClient\NiHonSeiki\NiHonSeiki\obj\Debug\NiHonSeiki.frmReceive.resources
+D:\Project\DemoWinMo6SqlClient\NiHonSeiki\NiHonSeiki\obj\Debug\NiHonSeiki.frmReceiveVender.resources
+D:\Project\DemoWinMo6SqlClient\NiHonSeiki\NiHonSeiki\obj\Debug\NiHonSeiki.Properties.Resources.resources
+D:\Project\DemoWinMo6SqlClient\NiHonSeiki\NiHonSeiki\obj\Debug\NiHonSeiki.csproj.GenerateResource.Cache
+D:\Project\DemoWinMo6SqlClient\NiHonSeiki\NiHonSeiki\obj\Debug\NiHonSeiki.exe
+D:\Project\DemoWinMo6SqlClient\NiHonSeiki\NiHonSeiki\obj\Debug\NiHonSeiki.pdb
+D:\Project\DemoWinMo6SqlClient\NiHonSeiki\NiHonSeiki\bin\Debug\NiHonSeiki.exe.config
